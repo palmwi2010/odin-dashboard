@@ -465,20 +465,20 @@ body {
 
 .trending-card {
     display: flex;
-    gap: 12px;
+    gap: 16px;
     align-items: center;
 }
 
 .user-img {
-    width: 30px;
+    width: 40px;
     border-radius: 50%;
 }
 
 .trending-username {
     font-size: 13px;
-    font-weight: 700;
 }
 
 .trending-name {
     font-size: 13px;
+    color: var(--theme-grey-font)
 }
